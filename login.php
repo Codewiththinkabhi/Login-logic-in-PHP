@@ -65,7 +65,6 @@
 input{
   margin-bottom: 10px;
 }
-/* Change styles for span and cancel button on extra small screens */
 @media screen and (max-width: 300px) {
 
   
